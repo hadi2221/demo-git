@@ -1,0 +1,11 @@
+==============================================================================
+Amazon :: This is some basic information about the whole suite                
+==============================================================================
+User Must sign in to check out :: This is some basic info about th... | FAIL |
+No keyword with name 'Open Browser http://www.amazon.com' found.
+------------------------------------------------------------------------------
+Amazon :: This is some basic information about the whole suite        | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Abdul Hadi\PycharmProjects\Robot-Scripts\Amazon\pabot_results\Amazon\output.xml
