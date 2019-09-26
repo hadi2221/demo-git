@@ -32,7 +32,7 @@ ${SEARCH_TERM} =  Ferrari 458
 #    #Amazon.Begin Checkout
 
 Logged out user can search for products
-    [Tags]  Web
+    [Tags]  Web  Smoke
     ${new_browser} =  Get Selection From User  Which browser?  chrome  ie
     Set Global variable  ${BROWSER}  ${new_browser}
     Amazon.Search for products
